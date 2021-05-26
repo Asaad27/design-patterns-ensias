@@ -1,3 +1,5 @@
+package strategy;
+
 public abstract class Duck {
 
     private final FlyBehavior flyBehavior;

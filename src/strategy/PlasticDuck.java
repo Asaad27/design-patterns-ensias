@@ -1,3 +1,5 @@
+package strategy;
+
 public class PlasticDuck extends Duck{
 
     public PlasticDuck() {
@@ -9,7 +11,7 @@ public class PlasticDuck extends Duck{
     }
 
     @Override
-    protected void display() {
+    public void display() {
         System.out.println("i'm a plastic duck");
     }
 }

@@ -1,3 +1,5 @@
+package strategy;
+
 public class CanFly implements FlyBehavior{
     @Override
     public void fly() {
