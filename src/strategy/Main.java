@@ -1,3 +1,5 @@
+package strategy;
+
 import strategy.PlasticDuck;
 import strategy.SqueakDuck;
 
@@ -17,6 +19,7 @@ public class Main {
 //        squeakDuck.display();
 //        squeakDuck.quack();
 //        squeakDuck.swim();
+
 
 
     }
